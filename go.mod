@@ -1,4 +1,4 @@
-module github.com/fauna/faunadb-go
+module github.com/MPEnterprises/faunadb-go
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
